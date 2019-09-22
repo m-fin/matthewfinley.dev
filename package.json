@@ -1,0 +1,22 @@
+{
+  "name": "matthewfinley.dev",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/0ea08b3e-a1c2-4f4d-8d40-739d06815b9b/deploy-status)](https://app.netlify.com/sites/mystifying-shockley-e789f6/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-fin/matthewfinley.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-fin/matthewfinley.dev/issues"
+  },
+  "homepage": "https://github.com/m-fin/matthewfinley.dev#readme",
+  "dependencies": {
+    "bulma": "^0.7.5"
+  }
+}
